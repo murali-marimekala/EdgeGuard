@@ -155,6 +155,9 @@ threshold = 0.5
 anomalies = reconstruction_error > threshold
 print("Anomalies detected:", np.sum(anomalies))
 ```
+## Execution steps
+Follow steps under
+https://github.com/murali-marimekala/EdgeGuard/blob/main/QuickStart.md
 
 ## Project Structure
 ```
